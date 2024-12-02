@@ -6,6 +6,7 @@ Imports Button = System.Windows.Forms.Button
 Public Class Checkout
     Inherits Form
 
+    'This 
     Private lblByeText As Label
     Private Label3 As Label
     Private lblTotalCost As Label
